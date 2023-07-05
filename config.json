@@ -1,0 +1,6 @@
+{
+	"IMAGE_IDX": 3,
+	"IMAGE_DIR": "./data/input",
+	"DELISTED_DIR": "./data/delisted_dir",
+	"JSON_BOX": "True"
+}

@@ -1,0 +1,8 @@
+## ignore
+*.jpg
+*.png
+*.xml
+*.txt
+
+# 추가
+!*.keep
